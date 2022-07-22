@@ -1,4 +1,4 @@
-# Breast Cancer Survival Prediction Using Machine Learning
+# Prediction of Breast Cancer Survival Using Machine Learning
 
 Beast cancer is among the most common cancers worldwide. Thanks to advances in technology, medical information such as images, gene mutations and molecular activities can be obtained clinically. The abundance and mobility of data offered opportunities for healthcare workers worldwide to study a large number of patients
 to gain a deeper understanding of the disease and design better treatments for patients. However, processing of such data is not possible without data analytical
